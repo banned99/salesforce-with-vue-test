@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.22b385a7fc4f13b7452fe9c9ce10c544.js"
+  "/precache-manifest.dd70aa0a3351b4dcc3c0765f151e21e9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vuever3"});
